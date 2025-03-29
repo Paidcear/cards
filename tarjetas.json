@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Hey Banco",
+        "fecha_corte": "2025-03-13",
+        "fecha_pago": "2025-03-03",
+        "limite": 54000.0
+    },
+    {
+        "nombre": "RappiCard",
+        "fecha_corte": "2025-03-06",
+        "fecha_pago": "2025-03-26",
+        "limite": 44000.0
+    },
+    {
+        "nombre": "BBVA Azul",
+        "fecha_corte": "2025-03-07",
+        "fecha_pago": "2025-03-27",
+        "limite": 33300.0
+    },
+    {
+        "nombre": "Invex Volaris 0",
+        "fecha_corte": "2025-03-05",
+        "fecha_pago": "2025-03-25",
+        "limite": 36000.0
+    },
+    {
+        "nombre": "Klar",
+        "fecha_corte": "2025-03-04",
+        "fecha_pago": "2025-03-14",
+        "limite": 32400.0
+    },
+    {
+        "nombre": "Banamex",
+        "fecha_corte": "2025-03-14",
+        "fecha_pago": "2025-03-05",
+        "limite": 31500.0
+    },
+    {
+        "nombre": "Plata Card",
+        "fecha_corte": "2025-03-21",
+        "fecha_pago": "2025-03-21",
+        "limite": 20000.0
+    },
+    {
+        "nombre": "HSBC Zero",
+        "fecha_corte": "2025-03-16",
+        "fecha_pago": "2025-03-05",
+        "limite": 19000.0
+    },
+    {
+        "nombre": "Mercado Pago",
+        "fecha_corte": "2025-03-28",
+        "fecha_pago": "2025-03-07",
+        "limite": 21600.0
+    },
+    {
+        "nombre": "Nu Gold",
+        "fecha_corte": "2025-03-16",
+        "fecha_pago": "2025-03-25",
+        "limite": 12000.0
+    },
+    {
+        "nombre": "Santander American Express",
+        "fecha_corte": "2025-03-10",
+        "fecha_pago": "2025-03-30",
+        "limite": 10800.0
+    },
+    {
+        "nombre": "Stori",
+        "fecha_corte": "2025-03-12",
+        "fecha_pago": "2025-03-02",
+        "limite": 9000.0
+    },
+    {
+        "nombre": "Banco Azteca",
+        "fecha_corte": "2025-03-05",
+        "fecha_pago": "2025-03-25",
+        "limite": 7000.0
+    },
+    {
+        "nombre": "Didi",
+        "fecha_corte": "2025-03-03",
+        "fecha_pago": "2025-03-18",
+        "limite": 4400.0
+    },
+    {
+        "nombre": "Liverpool",
+        "fecha_corte": "2025-03-26",
+        "fecha_pago": "2025-03-26",
+        "limite": 18000.0
+    }
+]
