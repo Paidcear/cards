@@ -59,7 +59,7 @@ st.sidebar.subheader("Límite total de crédito")
 st.sidebar.write(f"**${limite_total:,.2f}**")
 
 # Seleccionar opción del menú
-opcion = st.sidebar.selectbox("Opciones", ["Panel Principal", "Registrar tarjeta", "Consultar tarjetas disponibles", "Editar tarjeta", "Eliminar tarjeta"])
+opcion = st.sidebar.selectbox("Opciones", ["Panel Principal"])#, "Registrar tarjeta", "Consultar tarjetas disponibles", "Editar tarjeta", "Eliminar tarjeta"])
 
 # Panel principal
 if opcion == "Panel Principal":
